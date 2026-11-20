@@ -1,0 +1,10 @@
+{
+  "description": "QuantumSafe is an educational tool for cybersecurity professionals to assess cryptographic algorithms against quantum threats and explore secure alternatives.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
