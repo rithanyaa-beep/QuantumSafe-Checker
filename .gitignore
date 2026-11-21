@@ -1,5 +1,3 @@
-
-
 # Node
 node_modules/
 frontend/dist/
@@ -10,6 +8,7 @@ frontend/build/
 venv/
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
 # Environment variables
 .env
