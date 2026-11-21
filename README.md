@@ -534,12 +534,14 @@ RITHANYAA K – Frontend Development
 •	Implemented the user-friendly interface for cryptographic security assessment.
 •	Integrated frontend components with backend API endpoints.
 •	Improved the responsiveness and usability of the application.
+
 RAKCHANA R – Backend Development
 •	Developed the backend using Python and FastAPI.
 •	Implemented REST API endpoints for cryptographic assessment and application functionality.
 •	Developed the security assessment logic for evaluating cryptographic algorithms.
 •	Implemented algorithm classification and quantum risk evaluation.
 •	Integrated backend modules and handled request validation and error responses.
+
 SETHULATHA MS– Asset and backend Management
 •	Developed the cryptographic asset inventory functionality.
 •	Implemented CSV file uploading, parsing and validation.
